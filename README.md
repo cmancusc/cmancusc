@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @creskintianB96
-- 👀 I’m interested in Robotics and Embedded systems
-- 🌱 I’m currently learning ROS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Robotics and Precision Agriculture
 - 📫 How to reach me creskintian43@gmail.com
 
 <!---
