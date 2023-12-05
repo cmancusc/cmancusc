@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @creskintianB96
+- 👋 Hi, I’m @cmancus
 - 👀 I’m interested in Robotics and Precision Agriculture
-- 📫 How to reach me creskintian43@gmail.com
+- 📫 How to reach me cmancus@myyahoo.com
 
 <!---
 creskintianB96/creskintianB96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
