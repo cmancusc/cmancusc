@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @cmancus
 - 👀 I’m interested in Robotics and Precision Agriculture
+- in my free time I used to explore assembler, OpenGl, ImGui and SDL2 architecture
 - 📫 How to reach me cmancus@myyahoo.com
 
 <!---
